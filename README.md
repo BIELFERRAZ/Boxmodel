@@ -1,0 +1,2 @@
+# Box-model-tamanho-e-posicionamento
+Chamamos de box model a forma que o CSS define a caixa retangular que envolve os elementos da página. Cada elemento HTML é desenhado na tela de maneira diferente, de acordo com sua definição. Alguns elementos, como um parágrafo, são chamados de elementos em nível de bloco, e tem um comportamento diferente de elementos que fluem como um texto, chamado de elementos em nível de linha.
